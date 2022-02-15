@@ -1,0 +1,1 @@
+{"name":"Kate","age":45,"city":"Lviv"}

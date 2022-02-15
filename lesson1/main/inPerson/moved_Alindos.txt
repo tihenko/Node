@@ -1,0 +1,1 @@
+{"name":"Alindos","age":19,"city":"Romny"}
